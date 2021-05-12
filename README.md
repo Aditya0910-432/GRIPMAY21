@@ -33,7 +33,7 @@ This demo video is performed on the public “OXFORD TOWN CENTRE” dataset
 4. OpenCV_Contrib
 5. Math
 
-Download yolov3.weights for COCO dataset from Download the yolov3.weights file from [Here]( https://pjreddie.com/media/files/yolov3.weights) and add it to the folder for this program.
+Download yolov3.weights from [Here]( https://pjreddie.com/media/files/yolov3.weights) and add it to the folder for this program.
 
 ### Installation of Model:
 
