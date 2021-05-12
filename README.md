@@ -1,7 +1,7 @@
 # GRIPMAY21
 this is a project for the sparks foundation
 
-##Computer Vision and IOT
+#Computer Vision and IOT
 
 # Task 3 - Social Distancing Detector  
 An AI Tool to Help Customers Monitor Social Distancing at public places.
