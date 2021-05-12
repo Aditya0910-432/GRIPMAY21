@@ -1,8 +1,10 @@
 # GRIPMAY21
 this is a project for the sparks foundation
 
-# Social Distancing Detector  
-An AI Tool to Help Customers Monitor Social Distancing in the Workplace.
+##Computer Vision and IOT
+
+# Task 3 - Social Distancing Detector  
+An AI Tool to Help Customers Monitor Social Distancing at public places.
 
 ### Sourcerer [![](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Social-Distancing-Detector/images/0)](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Social-Distancing-Detector/links/0)[![](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Social-Distancing-Detector/images/1)](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Social-Distancing-Detector/links/1)[![](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Social-Distancing-Detector/images/2)](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Social-Distancing-Detector/links/2)[![](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Social-Distancing-Detector/images/3)](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Social-Distancing-Detector/links/3)[![](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Social-Distancing-Detector/images/4)](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Social-Distancing-Detector/links/4)[![](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Social-Distancing-Detector/images/5)](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Social-Distancing-Detector/links/5)[![](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Social-Distancing-Detector/images/6)](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Social-Distancing-Detector/links/6)[![](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Social-Distancing-Detector/images/7)](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Social-Distancing-Detector/links/7)
 
